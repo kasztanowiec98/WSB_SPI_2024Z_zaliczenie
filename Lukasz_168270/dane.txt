@@ -2,3 +2,4 @@ imie Lukasz
 numer_albumu 168270
 szkola WSB
 ulubiona_potrawa zurek
+sport pilka nozna
